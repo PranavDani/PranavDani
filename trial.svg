@@ -104,9 +104,9 @@
                 }
             </style>
             <h1 class="glitch">
-                <span aria-hidden="true">Hello World 👋</span>
-                Hello World 👋
-                <span aria-hidden="true">Hello World 👋</span>
+                <span aria-hidden="true">Hello World</span>
+                Hello World
+                <span aria-hidden="true">Hello World</span>
             </h1>
         </div>
     </foreignObject>
