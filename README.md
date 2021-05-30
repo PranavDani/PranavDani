@@ -4,7 +4,6 @@
     <img src="trial.svg" width="1500" height="500" alt="css-in-readme">
 </div>
 
-
 <!--
 **Pranav1642/Pranav1642** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
