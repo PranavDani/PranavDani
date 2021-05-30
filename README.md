@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 <div>
-    <img src="trial.svg" width="1000" height="250" alt="css-in-readme">
+    <img src="trial.svg" width="1000" height="200" alt="css-in-readme">
 </div>
+<!-- https://stackoverflow.com/questions/51956361/custom-css-file-for-readme-md-in-a-github-repo -->
 
 <!--
 **Pranav1642/Pranav1642** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
