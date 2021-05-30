@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div>
-    <img src="trial.svg" width="1500" height="500" alt="css-in-readme">
+    <img src="trial.svg" width="1000" height="250" alt="css-in-readme">
 </div>
 
 <!--
