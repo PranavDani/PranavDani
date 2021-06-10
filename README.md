@@ -12,7 +12,7 @@
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning Flask and Web development
 <!-- - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m looking for help with js
+- 🤔 I’m looking for help with JS
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
