@@ -22,3 +22,11 @@
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Pranav1642)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pranav-dani-a57025191/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/PranavDani3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/pranav1642)  
+
+
+
+### My Projects
+
+Web App | Front End | Back End | Live Demo | Repository
+------- | --------- | -------- | :-------: | :--------:
+Expense Tracker | HTML, CSS, JS | Flask, PostgreSQL | [link](https://expense-tracker03.herokuapp.com) | [link](https://github.com/PranavDani/Expense-Tracker)
